@@ -35,6 +35,14 @@ public class Teste {
 			System.out.println(oRef);
 			
 		}
+		
+		System.out.println("-------------------------");
+		
+		for (Object oRef: lista) {
+			
+			System.out.println(oRef);
+			
+		}
 	}
 
 }
